@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* TO DO LIST  */
+.strike {
+  text-decoration: line-through;
+}
+
+.hit {
+  color: green;
+}
